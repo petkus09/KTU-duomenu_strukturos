@@ -1,0 +1,11 @@
+1992 Pavadinimas1 S.King 2000-01-01 Jonas 100
+1993 Pavadinimas2 M.Tyson 2001-02-02 Petras 3
+1994 Pavadinimas3 U.Boll 2002-03-03 Kestas 1000
+1995 Pavadinimas4 S.Hawkin 2003-04-04 Justinas 9
+1996 Pavadinimas5 M.K.Ciurlionis 2004-05-05 Eimantas 38
+1997 Pavadinimas6 A.Zagrodnij 2005-06-06 Darius 270
+1998 Pavadinimas7 S.Holms 2006-07-07 Gediminas 31
+1999 Pavadinimas8 T.Verdy 2007-08-08 Lukas 48
+2000 Pavadinimas9 A.Altlmer 2008-09-09 Ignas 92
+2001 Pavadinimas10 P.Tirlson 2009-10-10 Vidmantas 666
+2002 Pavadinimas11 D.Dorlov 2010-11-11 Vatslovas 199
